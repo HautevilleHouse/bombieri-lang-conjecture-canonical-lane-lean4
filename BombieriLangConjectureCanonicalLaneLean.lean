@@ -1,0 +1,7 @@
+-- This module is the root of the BombieriLangConjectureCanonicalLaneLean Lean proof package.
+import BombieriLangConjectureCanonicalLaneLean.Basic
+import BombieriLangConjectureCanonicalLaneLean.SourcePackage
+import BombieriLangConjectureCanonicalLaneLean.SourceDependencies
+import BombieriLangConjectureCanonicalLaneLean.Formalization
+import BombieriLangConjectureCanonicalLaneLean.ReviewerBridge
+import BombieriLangConjectureCanonicalLaneLean.TheoremStatement
